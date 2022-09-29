@@ -24,7 +24,7 @@ public class EmployeeWageComputation {
 
 	public static void main(String[] args) {
 
-		UC1_EmployeeAttendance call = new UC1_EmployeeAttendance();
+		EmployeeWageComputation call = new EmployeeWageComputation();
 
 		call.printMessage();
 
