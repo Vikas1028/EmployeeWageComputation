@@ -24,7 +24,7 @@ public class EmployeeWageComputation {
 		}
 	}
 
-	// Calculate Daily Employee Wage
+	// Calculate Daily Employee Wage   .
 	public void calculateEmployeeDailyWage() {
 		WagePerHour = 20;
 		FullDayHours = 8;
