@@ -44,7 +44,7 @@ public class EmployeeWageComputation {
 
 	public static void main(String[] args) {
 
-		UC2_EmployeeDailyWage call = new UC2_EmployeeDailyWage();
+		EmployeeWageComputation call = new EmployeeWageComputation();
 
 		call.printMessage();
 
