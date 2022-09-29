@@ -72,7 +72,7 @@ public class EmployeeWageComputation {
 
 	public static void main(String[] args) {
 
-		UC3_AddPartTimeEmployee call = new UC3_AddPartTimeEmployee();
+		EmployeeWageComputation call = new EmployeeWageComputation();
 
 		call.printMessage();
 
