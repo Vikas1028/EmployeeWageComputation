@@ -13,7 +13,7 @@ public class EmployeeWageComputation {
 		System.out.println("Welcome to Employee Wage Computation Program");
 	}
 
-	// Check employee is present or absent
+	// Check employee is present or absent       .
 	public void checkEmployeeAttendance() {
 		Random num = new Random();
 		Presenti = num.nextInt(2);
